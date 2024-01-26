@@ -19,7 +19,7 @@
           <option name="logo_enabled" value="true">
             <options>
               <option name="logo_url" />
-              <option name="html5_logo_url" value="mobile/5gtJJl8RFd8.png" />
+              <option name="html5_logo_url" value="mobile/6lDhTCgnCiG.png" />
             </options>
           </option>
           <option name="sidebar_enabled" value="true">
@@ -1577,50 +1577,55 @@
       <links>
         <slidelink slideid="_player.6FvFBDA0RL2" displaytext="Approach to Hypertension" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6FvFBDA0RL2.5d8YZBfYmjw" displaytext="Welcome" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.6FulyT57SI0" displaytext="Learning Objectives" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5aKAV0LXQzG" displaytext="Malnutrition" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvFBDA0RL2.5aKAV0LXQzG" displaytext="What is Malnutrition?" expand="false" type="slide" />
             <slidelink slideid="_player.6FvFBDA0RL2.5wdC1I0XaTO" displaytext="Risk Factors" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6f12J7BiIiE" displaytext="Case 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6SPAV2uxaHT" displaytext="History from Mother’s Child - 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6TqizQtiM4z" displaytext="History from Mother’s Child - 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.67WhW79h34D" displaytext="Assess Child’s Feeding" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5bR13tGxb4A" displaytext="Assess Child’s Feeding - Summary" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5W9paxKWBOX" displaytext="Assessing severity of Malnutrition" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5XELroEMFDq" displaytext="Nutritional Anthropometry" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6IwyMgcwFzh" displaytext="Growth Charts" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.61j0VdnhnsI" displaytext="Growth Charts – Explanation" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5zUhKtMSOpc" displaytext="Waterflow Classification" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5eJOSrIml08" displaytext="Classification of Undernutrition" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6TVWIf4Fhaj" displaytext="4 coloured Mid Arm Circumference Tape" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6Z6He3ycuR2" displaytext="General Physical Examination" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6h7q5Zl6N8p" displaytext="Assess Child’s Appetite" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5vRtf3UPx6U" displaytext="Case 2" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6oTINaOwQJ6" displaytext="Lab Investigations" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6YfZ7Sh1nPI" displaytext="Acute Malnutrition" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6aII3qaajYt" displaytext="Treatment according to Severity" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.60KJF57w5bu" displaytext="Case 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6jMMPZFU4Fb" displaytext="Micronutrient Deficiencies in Malnutrition" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5e4GgWalx5v" displaytext="Iron Deficiency – Anemia" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6Bbt0z1cjHR" displaytext="Iron Deficiency Anemia" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.61458EAxYhI" displaytext="Vitamin D Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6XnGgFYATJp" displaytext="Vitamin D Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5ymJm77213W" displaytext="Iron and Vitamin D Replacement" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.666AfxGBTjU" displaytext="Iron Replacement according to Age" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5xJmlAn8Sip" displaytext="Vitamin D Replacement" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6oEwDXWLsxG" displaytext="Vitamin A Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6iQ1og1QQFZ" displaytext="Vitamin A Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6b3YCeMzK94" displaytext="Vitamin C Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5Y4StFq9f1P" displaytext="Vitamin C Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5l7lV0xZRIh" displaytext="Vitamin B12 Deficiency" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6QYc54dCB4q" displaytext="Vitamin B12 Deficiency - Treatment" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6EREXzRl9yJ" displaytext="Micronutrients: Zinc 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6B3LWXHFamT" displaytext="Micronutrients: Zinc 1" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6Bq6cEsp9wG" displaytext="Case 4" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5bxvn6dmFxW" displaytext="Advice for Mothers: Nutrition &amp;amp; Diet" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6C1w7rZXL1m" displaytext="Advice for Mothers: Prevent Illnesses" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.5bvuK8vEJph" displaytext="When to refer immediately?" expand="false" type="slide" />
-            <slidelink slideid="_player.6FvFBDA0RL2.6gKH83NRqh2" displaytext="When to refer immediately?" expand="false" type="slide" />
+            <slidelink slideid="_player.6FvFBDA0RL2.6f12J7BiIiE" displaytext="Case 1" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6FvFBDA0RL2.6SPAV2uxaHT" displaytext="History from Mother’s Child - 1" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6TqizQtiM4z" displaytext="History from Mother’s Child - 2" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.67WhW79h34D" displaytext="Assess Child’s Feeding" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5bR13tGxb4A" displaytext="Assess Child’s Feeding - Summary" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5W9paxKWBOX" displaytext="Assessing severity of Malnutrition" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5XELroEMFDq" displaytext="Nutritional Anthropometry" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6IwyMgcwFzh" displaytext="Growth Charts" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.61j0VdnhnsI" displaytext="Growth Charts – Explanation" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5zUhKtMSOpc" displaytext="Waterlow Classification" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5eJOSrIml08" displaytext="Classification of Undernutrition" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6TVWIf4Fhaj" displaytext="4 coloured Mid Arm Circumference Tape" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6Z6He3ycuR2" displaytext="General Physical Examination" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6h7q5Zl6N8p" displaytext="Assess Child’s Appetite" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6FvFBDA0RL2.5vRtf3UPx6U" displaytext="Case 2" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6FvFBDA0RL2.6oTINaOwQJ6" displaytext="Lab Investigations" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6YfZ7Sh1nPI" displaytext="Acute Malnutrition" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6aII3qaajYt" displaytext="Treatment according to Severity" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6FvFBDA0RL2.60KJF57w5bu" displaytext="Case 3" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6FvFBDA0RL2.6jMMPZFU4Fb" displaytext="Micronutrient Deficiencies in Malnutrition" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5e4GgWalx5v" displaytext="Iron Deficiency – Anemia" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.61458EAxYhI" displaytext="Vitamin D Deficiency" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5ymJm77213W" displaytext="Iron and Vitamin D Replacement" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.666AfxGBTjU" displaytext="Iron Replacement according to Age" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5xJmlAn8Sip" displaytext="Vitamin D Replacement" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6oEwDXWLsxG" displaytext="Vitamin A Deficiency" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6b3YCeMzK94" displaytext="Vitamin C Deficiency" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5l7lV0xZRIh" displaytext="Vitamin B12 Deficiency" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6QYc54dCB4q" displaytext="Vitamin B12 Deficiency - Treatment" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6EREXzRl9yJ" displaytext="Micronutrients: Zinc 1" expand="false" type="slide" />
+              </links>
+            </slidelink>
+            <slidelink slideid="_player.6FvFBDA0RL2.6Bq6cEsp9wG" displaytext="Case 4" expand="false" type="slide">
+              <links>
+                <slidelink slideid="_player.6FvFBDA0RL2.5bxvn6dmFxW" displaytext="Advice for Mothers: Nutrition &amp;amp; Diet" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.6C1w7rZXL1m" displaytext="Advice for Mothers: Prevent Illnesses" expand="false" type="slide" />
+                <slidelink slideid="_player.6FvFBDA0RL2.5bvuK8vEJph" displaytext="When to refer immediately?" expand="false" type="slide" />
+              </links>
+            </slidelink>
             <slidelink slideid="_player.6FvFBDA0RL2.6I6DEvG3ivN" displaytext="References " expand="false" type="slide" />
           </links>
         </slidelink>
